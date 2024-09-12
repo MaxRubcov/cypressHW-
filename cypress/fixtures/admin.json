@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Авторизация",
+        "data": [
+             {
+        "login": "qamid@qamid.ru",
+        "password": "qamid",
+        "assert": "Управление залами"
+             }
+        ]
+    },
+
+    {
+        "name": "Проверка ввода пустого пароля",
+        "data": [
+             {
+        "login": "qamid@qamid.ru",
+        "password": null,
+        "assert": "Ошибка авторизации!"
+             }
+        ]
+    }
+]

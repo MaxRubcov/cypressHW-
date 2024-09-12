@@ -1,0 +1,6 @@
+[
+    {
+        "assert": "Идёмвкино",
+        "selectorDays": ".page-nav__day"
+    }
+]
